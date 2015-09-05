@@ -81,7 +81,7 @@ CHAIN_CONFIG = [
     {"chain":"Bitleu"},
     {"chain":"Maxcoin"},
     {"chain":"Dash"},
-    {"chain":"Virtacoin", "policy":"LtcScryptChain", "code3":"VTA", "magic":"\xbe\xd0\xc8\xd1", "address_version":"\x00"},
+    {"chain":"Virtacoin"},
     {"chain":"Unbreakablecoin"},
     #{"chain":"",
     # "code3":"", "address_version":"\x", "magic":""},
